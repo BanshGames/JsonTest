@@ -1,6 +1,6 @@
 {
   "title": "Umbrella",
-  "color": "black"
-  "material" : "iron"
+  "color": "black",
+  "material" : "iron",
   "uses" : "rain"
 }
